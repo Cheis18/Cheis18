@@ -1,7 +1,8 @@
 ## Hola soy cheimienst Hernandez un gusto !! 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://www.w3.org/2000/svg](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)" />
+    <img src="" />
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
   </a>
 </p>
 
