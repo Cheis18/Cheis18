@@ -1,7 +1,7 @@
 ## Hola soy cheimienst Hernandez un gusto !! 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://www.w3.org/2000/svg" />
   </a>
 </p>
 
