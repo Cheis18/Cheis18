@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+  </a>
+</p>
 -->
 
 Trainee Back end developer and Front end, estudiando un tecnico en sistemas en la universidad de nacional tecnologica.
@@ -26,11 +31,7 @@ Soy un desarrollador de software con experiencia en Python y Java, especializado
 - **Sistema de Bots**: Desarrollo de bots para integrar menús y catálogos automáticamente.
 
 ## Habilidades
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
 
 - Python
 - Java
