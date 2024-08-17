@@ -1,11 +1,11 @@
 ## Hola soy cheimienst Hernandez un gusto !! 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://www.w3.org/2000/svg" />
+    <img src="[https://www.w3.org/2000/svg](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)" />
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+
 
 <!--
 **Cheis18/Cheis18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
