@@ -1,4 +1,9 @@
 ## Hola soy cheimienst Hernandez un gusto !! 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **Cheis18/Cheis18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
