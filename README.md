@@ -5,7 +5,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 <!--
 **Cheis18/Cheis18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
