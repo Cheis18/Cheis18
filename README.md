@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Trainee Back end developer and Front end, estudiando un tecnico en sistemas en la universidad de nacional tecnologica.
-# Hola, soy [Tu Nombre]
 
 Soy un desarrollador de software con experiencia en Python y Java, especializado en el desarrollo de juegos y soluciones personalizadas para clientes empresariales. Me apasiona aprender nuevas tecnologías y resolver problemas complejos.
 
