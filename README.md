@@ -23,26 +23,31 @@ Here are some ideas to get you started:
 
 Trainee Back end developer and Front end, estudiando un tecnico en sistemas en la universidad de nacional tecnologica.
 
-Soy un desarrollador de software con experiencia en Python y Java, especializado en el desarrollo de juegos y soluciones personalizadas para clientes empresariales. Me apasiona aprender nuevas tecnologías y resolver problemas complejos.
+Soy un desarrollador de software con experiencia en Python y Javascript entre otras, especializado en el desarrollo de juegos y soluciones personalizadas para clientes empresariales. Me apasiona aprender nuevas tecnologías y resolver problemas complejos.
 
 ## Proyectos Destacados
 
 - **Juego en Pygame**: Un juego con niveles y enemigos con diferentes colores y velocidades.
 - **Sistema de Bots**: Desarrollo de bots para integrar menús y catálogos automáticamente.
+- **Paginas Web**: Desarrollos de paginas web para particulares enfocado a sus necesidades.
+
 
 ## Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
 
 - Python
+- Javascript
 - Java
+- CSS
+- HTML
 - Pygame
 - Desarrollo de juegos
 - Integración de sistemas
 
 ## Contacto
 
-- Correo electrónico: [tu-email@example.com](mailto:tu-email@example.com)
-- LinkedIn: [Tu Perfil LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- Correo electrónico: [cheimienst18@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/cheims-hern%C3%A1ndez)
 
 ¡Gracias por visitar mi perfil!
 
