@@ -37,11 +37,11 @@ Soy un desarrollador de software con experiencia en Python y Javascript entre ot
 
 - Python
 - Javascript
+- Reac Native
 - Java
 - CSS
 - HTML
-- Pygame
-- Desarrollo de juegos
+- Desarrollo de juegos en pygame
 - Integración de sistemas
 
 ## Contacto
