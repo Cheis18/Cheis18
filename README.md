@@ -33,11 +33,12 @@ Soy un desarrollador de software con experiencia en Python y Javascript entre ot
 
 
 ## Habilidades
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql,node.js,reactnative)](https://skillicons.dev)
 
 - Python
 - Javascript
-- Reac Native
+- Reac 
+- Node.js
 - Java
 - CSS
 - HTML
