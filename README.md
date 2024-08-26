@@ -43,7 +43,7 @@ Soy un desarrollador de software con experiencia en Python y Javascript entre ot
 - CSS
 - HTML
 - MySQL
-- 
+  
 ## Contacto
 
 - Correo electrónico: [cheimienst18@gmail.com)
