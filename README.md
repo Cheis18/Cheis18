@@ -27,7 +27,7 @@ Soy un desarrollador de software con experiencia en Python y Javascript entre ot
 
 ## Proyectos Destacados
 
-- **Juego en Pygame**: Un juego con niveles y enemigos con diferentes colores y velocidades.
+- **Juegos en Pygame**: Juegos con niveles y enemigos con diferentes colores y velocidades.
 - **Sistema de Bots**: Desarrollo de bots para integrar menús y catálogos automáticamente.
 - **Paginas Web**: Desarrollos de paginas web para particulares enfocado a sus necesidades.
 
@@ -43,9 +43,7 @@ Soy un desarrollador de software con experiencia en Python y Javascript entre ot
 - CSS
 - HTML
 - MySQL
-- Desarrollo de juegos en pygame
-- Integración de sistemas
-
+- 
 ## Contacto
 
 - Correo electrónico: [cheimienst18@gmail.com)
