@@ -37,7 +37,7 @@ Soy un desarrollador de software con experiencia en Python y Javascript entre ot
 
 - Python
 - Javascript
-- Reac 
+- React Native
 - Node.js
 - Java
 - CSS
